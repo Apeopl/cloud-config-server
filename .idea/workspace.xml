@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e85199c-700b-46c4-b859-1281f757a5a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Apeopl/cloud-config-server.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YeAWkrYwMYzULqhzeJE0T1RD6I" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e85199c-700b-46c4-b859-1281f757a5a3" name="Default Changelist" comment="" />
+      <created>1583292719311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583292719311</updated>
+      <workItem from="1583292725712" duration="1220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="192" y="107" key="MergeDialog" timestamp="1583294682060">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="192" y="107" key="MergeDialog/0.23.1920.988@0.23.1920.988" timestamp="1583294682060" />
+    <state x="673" y="236" key="MultipleFileMergeDialog" timestamp="1583294691401">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="673" y="236" key="MultipleFileMergeDialog/0.23.1920.988@0.23.1920.988" timestamp="1583294691401" />
+  </component>
+</project>
