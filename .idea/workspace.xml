@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e85199c-700b-46c4-b859-1281f757a5a3" name="Default Changelist" comment="" />
+    <list default="true" id="8e85199c-700b-46c4-b859-1281f757a5a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/demo/config-repo/Apeopl-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/config-repo/Apeopl-dev.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,13 +52,51 @@
       <option name="presentableId" value="Default" />
       <updated>1583292719311</updated>
       <workItem from="1583292725712" duration="1220000" />
+      <workItem from="1583484567307" duration="661000" />
     </task>
+    <task id="LOCAL-00001" summary="更新">
+      <created>1583376674741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583376674745</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新">
+      <created>1583484584505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583484584505</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="416" y="44" key="CommitChangelistDialog2" timestamp="1583484584064">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="416" y="44" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1583484584064" />
+    <state x="554" y="111" key="CommitChangelistDialog2/0.23.1920.989@0.23.1920.989" timestamp="1583376673966" />
     <state x="192" y="107" key="MergeDialog" timestamp="1583294682060">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
@@ -65,5 +105,10 @@
       <screen x="0" y="23" width="1920" height="988" />
     </state>
     <state x="673" y="236" key="MultipleFileMergeDialog/0.23.1920.988@0.23.1920.988" timestamp="1583294691401" />
+    <state x="420" y="215" key="Vcs.Push.Dialog.v2" timestamp="1583484587008">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="420" y="215" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1583484587008" />
+    <state x="560" y="253" key="Vcs.Push.Dialog.v2/0.23.1920.989@0.23.1920.989" timestamp="1583376677588" />
   </component>
 </project>
